@@ -6,4 +6,7 @@ int main(){
 	cout<<a<<endl;
 	hello;
 	cout<<"i'm in dev";
+
+
+	hello
 }
